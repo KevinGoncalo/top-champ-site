@@ -111,6 +111,7 @@ h2 {
   object-fit: cover;
   overflow: hidden;
   border-radius: 0 8px 0 0;
+  display: block;
 }
 
 .description {
